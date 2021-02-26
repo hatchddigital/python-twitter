@@ -5,7 +5,7 @@ responses
 
 pytest
 pytest-cov
-pytest-runner
+pytest-runner==5.2
 mccabe
 mock
 six
